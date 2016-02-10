@@ -15,11 +15,11 @@
     "type": "git",
     "url":  "http://github.com/morkai/node-glp2.git"
   },
-  "engines": ["node ~0.12"],
+  "engines": ["node >=4"],
   "main": "./lib/index.js",
   "dependencies": {
     "h5.buffers": "0.x.x",
-    "serialport": "1.x.x"
+    "serialport": "2.x.x"
   },
   "devDependencies": {
 
