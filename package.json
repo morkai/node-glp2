@@ -19,7 +19,8 @@
   "main": "./lib/index.js",
   "dependencies": {
     "h5.buffers": "0.x.x",
-    "serialport": "2.x.x"
+    "serialport": "2.x.x",
+    "transliteration": "1.x.x"
   },
   "devDependencies": {
 
